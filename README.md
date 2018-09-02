@@ -1,2 +1,5 @@
-# arts
-Algorithm,Riview,Tip,Share
+# ARTS For Everyweek
+- Algorithm
+- Riview
+- Tip
+- Share
